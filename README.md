@@ -1,1 +1,1 @@
-Click on the view the raw file to view the Presentation of the developed.
+Click on the 'View Raw' to view the Final Presentation of the developed model.
